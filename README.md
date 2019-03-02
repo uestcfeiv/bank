@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## 支付问题解惑
 
-You can use the [editor on GitHub](https://github.com/uestcfeiv/bank/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+可能有小伙伴对微信或者支付宝的扫码支付的流程不熟悉，不知道如何扫描本机上的二维码，总不可能找另一部手机进行扫一扫吧，接着往下看，你就懂啦。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 微信
 
-### Markdown
+1. 打开手机微信软件，登录账号。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. 点击右上角的【+】展开选项。
+![图片](http://jingyan.baidu.com/album/afd8f4dea2c60b34e286e9bd.html?picindex=2)
 
-```markdown
-Syntax highlighted code block
+3. 选择【扫一扫】。
+![](http://jingyan.baidu.com/album/afd8f4dea2c60b34e286e9bd.html?picindex=3)
 
-# Header 1
-## Header 2
-### Header 3
+4. 再点击右上角的【…】。
+![](http://jingyan.baidu.com/album/afd8f4dea2c60b34e286e9bd.html?picindex=4)
 
-- Bulleted
-- List
+5. 选择【从相册选取二维码】。
+![](http://jingyan.baidu.com/album/afd8f4dea2c60b34e286e9bd.html?picindex=5)
 
-1. Numbered
-2. List
+6. 然后找到要扫一扫的二维码的图片。
+![](http://jingyan.baidu.com/album/afd8f4dea2c60b34e286e9bd.html?picindex=6)
 
-**Bold** and _Italic_ and `Code` text
+7. 就可以扫码成功了。
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 支付宝
 
-### Jekyll Themes
+1. 打开手机支付宝软件，登录账号。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uestcfeiv/bank/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2. 点击左上角“扫一扫”，如图所示
+![](http://jingyan.baidu.com/album/c74d6000b0a01a0f6a595ddd.html?picindex=8)
 
-### Support or Contact
+3. 然后，进入这个界面，选择右上角的“相册”，如图所示
+![](http://jingyan.baidu.com/album/c74d6000b0a01a0f6a595ddd.html?picindex=9)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. 然后，选择二维码图片，就可以扫描了，如图所示
+![](http://jingyan.baidu.com/album/c74d6000b0a01a0f6a595ddd.html?picindex=10)
+
+好啦，就这么简单，大家如果还有什么疑惑，请找星辰工作室 QQ: 2633904764
